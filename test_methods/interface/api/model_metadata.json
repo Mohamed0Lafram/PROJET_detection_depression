@@ -1,0 +1,17 @@
+{
+  "best_model": "R\u00e9gression Logistique (TF-IDF)",
+  "test_f1_macro": 0.9500225078097047,
+  "cv_f1_macro": 0.9456654375511253,
+  "auc_roc": 0.987106163562402,
+  "best_params": {
+    "model__C": 1,
+    "model__penalty": "l2"
+  },
+  "trained_on": "2026-05-15T07:41:19.212642",
+  "train_size": 25397,
+  "test_size": 6350,
+  "classes": {
+    "0": "Normal",
+    "1": "Depression"
+  }
+}

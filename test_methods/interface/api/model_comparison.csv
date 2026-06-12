@@ -1,0 +1,2 @@
+Modèle,F1-macro (CV),F1-macro (Test),AUC-ROC (Test),  model__C,  model__penalty
+Régression Logistique (TF-IDF),0.9457,0.9500,0.9871,1,l2
